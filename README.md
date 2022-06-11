@@ -1,4 +1,6 @@
-<img src="https://github.com/Chiragmodi01/Chiragmodi01/raw/master/assets/header-banner-optimized.svg" alt="Chirag's GitHub Stats" />
+<a href="/" target="_blank" rel="nofollow">
+  <img src="https://github.com/Chiragmodi01/Chiragmodi01/raw/master/assets/header-banner-optimized.svg" alt="Chirag's GitHub Stats" />
+</a>
 <h1 align='center'> Hey! :wave: I'm Chirag modi</h1>
 <p align='center'>
 
