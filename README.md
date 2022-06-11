@@ -1,7 +1,4 @@
-<span style="position: reletive;">
-  <img src="https://github.com/Chiragmodi01/Chiragmodi01/raw/master/assets/header-banner-optimized.svg" alt="Chirag's GitHub Stats" />
-  <!-- <img style="position: absolute; top: 5%; right: 5%" src="https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg" alt="Chirag's GitHub Stats" /> -->
-</span>
+<img src="https://github.com/Chiragmodi01/Chiragmodi01/raw/master/assets/header-banner-optimized.svg" alt="Chirag's GitHub Stats" />
 <h1 align='center'> Hey! :wave: I'm Chirag modi</h1>
 <p align='center'>
 
