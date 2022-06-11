@@ -1,0 +1,177 @@
+<svg viewBox="-558.899 -1.741 1497.661 501.741" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="500" width="1500">
+  <defs>
+    <clipPath id="clip0">
+      <rect id="rect41" fill="#fff" height="500" width="1500"/>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect id="rect44" transform="translate(1261 188)" fill="#fff" height="50" width="50"/>
+    </clipPath>
+    <clipPath id="spec-left">
+      <path d="M85 860c-10 1-25 1-28 13-3 15-3 32 6 45 7 11 23 9 35 9 19-1 35-16 40-34 2-8 4-14 1-19-6-10-20-12-31-13l-23-1z" fill="#333" id="path5554"/>
+    </clipPath>
+    <clipPath id="spec-right">
+      <path d="M215 860c10 1 24 1 28 13 3 15 3 32-6 45-7 11-23 9-35 9-19-1-35-16-40-34-2-8-4-14-1-19 6-10 20-12 31-13l23-1z" fill="#333" id="path5557"/>
+    </clipPath>
+     <pattern height="1" width="1" patternContentUnits="objectBoundingBox" id="pattern0">
+      <use id="use38" transform="scale(.005)" xlink:href="#image0"/>
+    </pattern>
+    <style type="text/css" id="style5503">
+      svg { --fur: #662900; --ear: #e4b89b; --cap-strap--large: #f00; --cap-strap--small: #900; --cap: #0d0d0d; --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: #595959; --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1s infinite linear; animation: read 1s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); } .bear__fur, .bear__outer-ear { fill: var(--fur); } .bear__inner-ear, .bear__muzzle { fill: var(--ear); } .bear__cap-strap { fill: var(--cap-strap--large); } .bear__small-cap-strap { fill: var(--cap-strap--small); } .bear__cap { fill: var(--cap); } .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .bear__nose, .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip0)" transform="matrix(1, 0, 0, 1, -560.253784, -0.202927)">
+    <rect fill="#1E1E1E" height="500" width="1500"/>
+    <rect fill="#1E1E1E" height="500" width="1500"/>
+    <rect fill="#DF2525" transform="rotate(-37 286 622)" height="759.9" width="1614.3" y="622" x="286"/>
+    <circle fill="#fff" r="183" cy="225" cx="750"/>
+    <path fill="#fff" d="M600 435l3 9v1a27 27 0 010 2h1a24 24 0 010-3l3-9h5v26h-4v-17a29 29 0 011-6h-1v2a30 30 0 01-1 3l-2 7h-3l-2-7a51 51 0 01-2-5 204 204 0 011 6v17h-5v-26h6zm16 20v-2l2-2 2-1 4-1h5v-2l-2-2-2-1-3 1-1 1h-5l1-2 2-2 3-1h6l3 2 1 2 1 2v14h-4v-4h-1c0 1 0 2-2 3l-4 1-4-1c-2-1-2-3-2-5zm4 0l1 2 3 1 3-1 2-3v-2h-5l-3 1-1 2zm23-20v14h3l5-8h5l-6 10 6 10h-5l-5-8h-3v8h-5v-26h5zm17 22h7v-12h-6v-4h11v16h5v4h-17v-4zm6-21l1-2 2-1 2 1 1 2-1 2h-4l-1-2zm15 5h5v4c0-2 1-3 2-3l3-1 5 2 2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-5v-20zm22 8v-4l1-2 3-2h2l4 1 2 3v-4h4v22l-2 2-2 2h-9v-4h5l3-1 1-2v-4l-2 3-4 1-2-1-3-1-1-3v-6zm4 3l1 3 3 1 3-1 1-3v-3l-1-3-3-1-3 1-1 3v3zm38 3l1-2 1-2 3-1 3-1h5v-2l-1-2-3-1-2 1-2 1h-4l1-2 2-2 2-1h7l2 2 2 2 1 2v14h-5v-4l-2 3-4 1-5-1-2-5zm5 0l1 2 2 1 4-1 1-3v-2h-5l-2 1-1 2zm16-14h4l1 13a22 22 0 010 3v2h1v-2a221 221 0 000-3l2-13h4l2 13a21 21 0 010 3v2h1a44 44 0 010-5l1-13h4l-3 20h-5l-2-13a16 16 0 010-2v-2a35 35 0 010 4l-2 13h-6l-2-20zm23 8l1-4 1-2 3-2h7a7 7 0 015 8v3h-13v2l1 3 4 1 2-1 2-1h4a6 6 0 01-3 4 10 10 0 01-5 1h-4l-3-2-1-2-1-3v-5zm9-5l-4 2-1 3h9l-1-3-3-2zm12 12h5l1 1 2 1h2l2-1 1-2c0-1-1-2-3-2h-3l-5-2-1-4 2-5 5-1h2l5 1 3 4h-5l-1-1-2-1h-2l-2 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-2l-5-1-3-4zm31 5h-4l-3-2-1-2-1-3v-5l1-4 1-2 3-2h7a7 7 0 015 4v12a7 7 0 01-5 4h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm20-13v3l1-2 3-1 2 1 1 2 1-2 2-1 3 1 1 4v15h-4v-15l-1-2-2 2v15h-3v-15l-2-2-2 2v15h-4v-20h4zm18 8l1-4 2-2 2-2h7a7 7 0 015 8v3h-12v2l1 3 3 1 2-1 2-1h4a6 6 0 01-3 4 10 10 0 01-5 1h-4l-2-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm39-3v-6h5v6h7v4h-7v11l2 1h5v4h-5l-5-2-2-4v-10h-5v-4h5zm17-6h5v6a20 20 0 010 4c0-2 1-3 2-3l3-1c2 0 4 0 5 2l2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-5v-26zm22 22h8v-12h-7v-4h11v16h6v4h-18v-4zm6-21l1-2 2-1h1l2 1v4h-5l-1-2zm16 5h4v4c0-2 1-3 2-3l3-1 5 2 2 5v13h-5v-12l-1-3-2-1-3 1-1 3v12h-4v-20zm21 8v-4l2-2 2-2h3l3 1 2 3v-4h5v19l-1 3-2 2-2 2h-9v-4h5l3-1 1-2v-4l-2 3-3 1-3-1-2-1-2-3v-6zm4 3l1 3 3 1 3-1 1-3v-3l-1-3-3-1-3 1-1 3v3zm17 4h5l1 1 2 1h2l2-1 1-2c0-1-1-2-3-2h-3l-5-2-1-4c0-2 0-4 2-5l5-1h2l5 1 2 4h-4l-1-1-2-1h-2l-2 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-2l-5-1-3-4zm43-9v-4h6v-2-3l1-1 2-2h9v4h-6l-1 1-1 1v2h8v4h-8v14h-4v-14h-6zm31 14h-4l-2-2-2-2-1-3v-5l1-4 2-2 2-2h7a7 7 0 015 4v12l-2 2-3 2h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm22-13v4h1l1-3 4-1 5 2 2 5v2h-5v-1l-1-3-3-1-3 1-1 3v12h-4v-20h4zm37 14l1-2 2-2 2-1 3-1h5v-2l-1-2-3-1-2 1-2 1h-4a6 6 0 013-4l2-1h7l2 2 2 2 1 2v14h-5v-4l-2 3-4 1-5-1-2-5zm5 0l1 2 2 1 4-1 1-3v-2h-5l-2 1-1 2zm16-14h4l1 13v1a34 34 0 011 4v-2a213 213 0 001-3l1-13h4l2 13v5h1a53 53 0 010-4v-1l2-13h3l-2 20h-6l-1-13-1-1v-1-2 4l-2 13h-5l-3-20zm23 8l1-4a7 7 0 014-4h7a7 7 0 015 4v7h-13v2l2 3 3 1 2-1 2-1h4a7 7 0 01-3 4 10 10 0 01-5 1h-4l-3-2-1-2-1-3v-5zm9-5c-2 0-3 1-3 2-1 0-2 1-2 3h9l-1-3-3-2zm13 12h4l1 1 3 1h1l3-1v-2c0-1-1-2-3-2h-2l-5-2-2-4 2-5 6-1h1l5 1 3 4h-5l-1-1-2-1h-1l-3 1-1 2c0 1 1 2 3 2h3l5 2 2 4-2 5-6 1h-1l-6-1-2-4zm30 5h-4l-2-2-2-2-1-3v-5l1-4 2-2 2-2h7a7 7 0 015 4v12a7 7 0 01-5 4h-3zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm20-13v3l1-2 3-1 2 1 1 2 1-2 2-1 3 1 2 4v15h-4v-15l-2-2-2 2v15h-3v-15l-2-2-2 2v15h-4v-20h4zm18 8l1-4 2-2 2-2h8a7 7 0 014 4l1 4v3h-13v2l1 3 3 1 3-1 1-1h4l-1 2-1 2a10 10 0 01-6 1h-3l-3-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm35-3h4v4h1l1-3 4-1h3l2 2 1 2 1 4v5l-1 3-1 2-2 2h-3l-4-1-1-2h-1v1a18 18 0 011 2v6h-5v-26zm5 8v5l1 2 2 1 3-1 1-3v-4l-1-3-3-1-2 1-1 3zm16 0l1-4a7 7 0 014-4h7a7 7 0 015 4v7h-12v2l1 3 3 1 2-1 2-1h4a7 7 0 01-3 4 10 10 0 01-5 1h-4l-2-2-2-2-1-3v-5zm9-5l-3 2-1 3h8l-1-3-3-2zm21 17h-3l-3-2-2-2v-8-4l2-2 3-2h7l3 2 1 2 1 4v5l-1 3a7 7 0 01-4 4h-4zm-4-7l1 2 3 1 3-1 1-2v-5l-1-3-3-1-3 1-1 3v5zm18-13h4v4l2-3 4-1h3l2 2 1 2 1 4v5l-1 3-1 2-2 2h-3l-4-1-2-2a11 11 0 010 2v7h-4v-26zm4 8v5l1 2 3 1 3-1 1-3v-4l-1-3-3-1-3 1-1 3zm16-10v-4h11v21l2 1h6v4h-9a6 6 0 01-3-4l-1-3v-15h-6zm23 10v-4l2-2 3-2h7a7 7 0 014 4l1 4v3h-13v2l1 3 3 1 3-1 1-1h5l-2 2-1 2a10 10 0 01-6 1h-3l-3-2-2-2v-8zm8-5l-3 2-1 3h8l-1-3-3-2zm19-9h5v5l-1 13h-3l-1-13v-5zm0 24v-2l2-1h1l2 1 1 2-1 2h-5v-2z"/>
+    <g clip-path="url(#clip1)" transform="matrix(1, 0, 0, 1.022429, 119.253746, -154.304626)">
+      <path fill="#fff" d="M1311 198l-6 1c2-1 4-3 5-6-2 2-5 2-7 3a10 10 0 00-18 7l1 2c-9 0-17-4-22-10l-1 5c0 3 2 6 5 8l-5-1c0 5 3 9 8 10a10 10 0 01-4 0c1 4 5 7 9 7a21 21 0 01-15 5c5 3 10 4 16 4 19 0 29-15 29-29v-1l5-5z"/>
+    </g>
+    <g transform="translate(549 -975) scale(1.34105)">
+      <path class="bear__fur" d="M243 894c0 61-36 106-94 106-55 0-92-45-92-106s38-86 91-86 95 25 95 86z" style="fill: rgb(102, 41, 0);"/>
+      <path class="bear__muzzle" d="M212 958c0 20-29 39-63 39-35 0-61-19-61-39s26-33 61-33 63 13 63 33z" style="fill: rgb(228, 184, 155);"/>
+      <path class="bear__nose" d="M181 932c0 7-19 24-30 24s-32-17-32-24c0-8 20-13 31-13 12 0 31 5 31 13z" style="fill: rgb(0, 0, 0);"/>
+      <ellipse class="bear__outer-ear" cx="68.3" cy="827.7" rx="23.8" ry="23.1" style="fill: rgb(102, 41, 0);"/>
+      <path class="bear__inner-ear" d="M85 826a17 16 0 00-17-14 17 16 0 00-16 16 17 16 0 0016 16 17 16 0 001 0l3-4a66 66 0 0111-12z" style="fill: rgb(228, 184, 155);"/>
+      <ellipse class="bear__outer-ear" ry="23.1" rx="23.8" cy="827.7" cx="-231.2" transform="scale(-1 1)" style="fill: rgb(102, 41, 0);"/>
+      <path class="bear__inner-ear" d="M215 826a17 16 0 0116-14 17 16 0 0117 16 17 16 0 01-17 16 17 16 0 01-1 0l-2-4a66 66 0 00-11-12z" style="fill: rgb(228, 184, 155);"/>
+      <path class="bear__cap-strap" d="M148 815c-14 0-26 1-38 4v11a199 199 0 0180 1v-11c-13-3-27-5-42-5z" style="fill: rgb(255, 0, 0);"/>
+      <path class="bear__small-cap-strap" d="M165 816a16 8 0 015 5 16 8 0 01-6 6l26 4v-11z" style="fill: rgb(153, 0, 0);"/>
+      <path class="bear__cap" d="M148 789c-43 0-76 20-83 64 12-11 28-19 45-23 0 0-2-12 10-16 15-4 19-4 28-4 10 0 15 0 30 4s12 17 12 17c18 5 32 11 45 22-8-46-43-64-87-64z" style="fill: rgb(13, 13, 13);"/>
+      <circle class="bear__eye" cx="97.2" cy="894.1" r="11.2"/>
+      <circle class="bear__eye" cy="894.1" cx="201.9" r="11.2"/>
+      <path style="fill:none;stroke:#e9afaf;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" class="bear__eyebrows" d="M97 864a21 21 0 01-7 16 21 21 0 01-16 5m130-21a21 21 0 006 16 21 21 0 0016 5"/>
+      <path class="shades-frame" d="M77 855c-6 0-13 0-23 2l-14 3 2 15 7 2c3 5 1 10 2 18 3 28 12 34 26 35 8 1 23 3 33-1s19-10 25-18c6-9 6-18 10-26 3-5 8-4 10 0 3 8 4 17 10 26 6 8 15 14 24 18 11 4 26 2 34 1 14-1 23-7 26-35 1-8-2-13 2-18l7-2 2-15-15-3c-15-3-23-2-34-2h-13l-25 4c-8 2-15 7-23 6-8 0-15-5-23-6l-25-4z" style="fill: rgb(0, 0, 0);"/>
+      <path style="fill:#333333" class="lens" d="M85 860c-10 1-25 1-28 13-3 15-3 32 6 45 7 11 23 9 35 9 19-1 35-16 40-34 2-8 4-14 1-19-6-10-20-12-31-13z"/>
+      <path class="shades-dot" d="M56 864a4 2 0 01-4 2 4 2 0 01-4-2 4 2 0 014-1 4 2 0 014 1" style="fill: rgba(242, 242, 242, 0.6);"/>
+      <path style="fill:#333333" class="lens" d="M215 860c10 1 24 1 28 13 3 15 3 32-6 45-7 11-23 9-35 9-19-1-35-16-40-34-2-8-4-14-1-19 6-10 20-12 31-13z"/>
+      <path class="shades-dot" d="M244 864a4 2 0 004 2 4 2 0 004-2 4 2 0 00-4-1 4 2 0 00-4 1" style="fill: rgba(242, 242, 242, 0.6);"/>
+      <g clip-path="url(#spec-left)">
+        <g class="code-block" transform="matrix(1, 0, 0, 1, 0, 0)" style="animation-duration: 1s; animation-iteration-count: infinite; animation-name: read; animation-timing-function: linear;">
+          <rect ry="0" y="862" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="874" x="96" height="7.5" width="28" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="54" height="7.5" x="60" y="886" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="897" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="78" y="909" ry="0" style="fill: rgba(25, 195, 230, 0.5);"/>
+          <rect ry="0" y="921" x="83" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="51" height="7.5" x="73" y="932" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="944" x="72" height="7.5" width="62" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="60" y="956" ry="0" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect ry="0" y="967" x="50" height="7.5" width="84" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="64" height="7.5" x="60" y="979" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="991" x="60" height="7.5" width="74" style="fill: rgba(230, 25, 128, 0.5);"/>
+          <rect width="41" height="7.5" x="93" y="1003" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1014" x="66" height="7.5" width="58" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="58" height="7.5" x="56" y="1026" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1038" x="50" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="46" height="7.5" x="88" y="1049" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1061" x="105" height="7.5" width="19" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="38" height="7.5" x="96" y="1073" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1084" x="73" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1096" x="88" height="7.5" width="26" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="68" y="1108" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1120" x="100" height="7.5" width="24" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="50" y="1131" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+        </g>
+        <g class="code-block" transform="matrix(1, 0, 0, 1, 0, 284)" style="animation-duration: 1s; animation-iteration-count: infinite; animation-name: read; animation-timing-function: linear;">
+          <rect ry="0" y="862" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="874" x="96" height="7.5" width="28" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="54" height="7.5" x="60" y="886" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="897" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="78" y="909" ry="0" style="fill: rgba(25, 195, 230, 0.5);"/>
+          <rect ry="0" y="921" x="83" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="51" height="7.5" x="73" y="932" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="944" x="72" height="7.5" width="62" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="60" y="956" ry="0" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect ry="0" y="967" x="50" height="7.5" width="84" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="64" height="7.5" x="60" y="979" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="991" x="60" height="7.5" width="74" style="fill: rgba(230, 25, 128, 0.5);"/>
+          <rect width="41" height="7.5" x="93" y="1003" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1014" x="66" height="7.5" width="58" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="58" height="7.5" x="56" y="1026" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1038" x="50" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="46" height="7.5" x="88" y="1049" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1061" x="105" height="7.5" width="19" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="38" height="7.5" x="96" y="1073" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1084" x="73" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1096" x="88" height="7.5" width="26" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="68" y="1108" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1120" x="100" height="7.5" width="24" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="50" y="1131" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+        </g>
+      </g>
+      <g clip-path="url(#spec-right)">
+        <g class="code-block" transform="matrix(1, 0, 0, 1, 104, 0)" style="animation-duration: 1s; animation-iteration-count: infinite; animation-name: read; animation-timing-function: linear;">
+          <rect ry="0" y="862" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="874" x="96" height="7.5" width="28" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="54" height="7.5" x="60" y="886" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="897" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="78" y="909" ry="0" style="fill: rgba(25, 195, 230, 0.5);"/>
+          <rect ry="0" y="921" x="83" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="51" height="7.5" x="73" y="932" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="944" x="72" height="7.5" width="62" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="60" y="956" ry="0" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect ry="0" y="967" x="50" height="7.5" width="84" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="64" height="7.5" x="60" y="979" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="991" x="60" height="7.5" width="74" style="fill: rgba(230, 25, 128, 0.5);"/>
+          <rect width="41" height="7.5" x="93" y="1003" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1014" x="66" height="7.5" width="58" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="58" height="7.5" x="56" y="1026" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1038" x="50" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="46" height="7.5" x="88" y="1049" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1061" x="105" height="7.5" width="19" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="38" height="7.5" x="96" y="1073" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1084" x="73" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1096" x="88" height="7.5" width="26" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="68" y="1108" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1120" x="100" height="7.5" width="24" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="50" y="1131" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+        </g>
+        <g class="code-block" transform="matrix(1, 0, 0, 1, 104, 284)" style="animation-duration: 1s; animation-iteration-count: infinite; animation-name: read; animation-timing-function: linear;">
+          <rect ry="0" y="862" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="874" x="96" height="7.5" width="28" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="54" height="7.5" x="60" y="886" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="897" x="60" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="78" y="909" ry="0" style="fill: rgba(25, 195, 230, 0.5);"/>
+          <rect ry="0" y="921" x="83" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="51" height="7.5" x="73" y="932" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="944" x="72" height="7.5" width="62" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="60" y="956" ry="0" style="fill: rgba(229, 230, 25, 0.5);"/>
+          <rect ry="0" y="967" x="50" height="7.5" width="84" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="64" height="7.5" x="60" y="979" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="991" x="60" height="7.5" width="74" style="fill: rgba(230, 25, 128, 0.5);"/>
+          <rect width="41" height="7.5" x="93" y="1003" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1014" x="66" height="7.5" width="58" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="58" height="7.5" x="56" y="1026" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1038" x="50" height="7.5" width="74" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="46" height="7.5" x="88" y="1049" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1061" x="105" height="7.5" width="19" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="38" height="7.5" x="96" y="1073" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1084" x="73" height="7.5" width="51" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1096" x="88" height="7.5" width="26" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="56" height="7.5" x="68" y="1108" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect ry="0" y="1120" x="100" height="7.5" width="24" style="fill: rgba(128, 230, 25, 0.5);"/>
+          <rect width="74" height="7.5" x="50" y="1131" ry="0" style="fill: rgba(128, 230, 25, 0.5);"/>
+        </g>
+      </g>
+      <path class="lens__shine" d="M101 861l-19 66h17l18-65zm-12-1h-4l-3 1-18 59 6 5z" style="fill: rgba(242, 242, 242, 0.35);"/>
+    </g>
+    <g fill-rule="evenodd" transform="matrix(0.800003, 0, 0, 0.8, 1381.25354, 175.146912)">
+      <path d="M4.123 20.046C-1.374 25.544 -1.374 34.456 4.123 39.953L20.047 55.878C25.544 61.374 34.456 61.374 39.953 55.878L55.878 39.953C61.374 34.456 61.374 25.544 55.878 20.046L39.953 4.122C34.456 -1.374 25.544 -1.374 20.047 4.122L4.123 20.046ZM36.966 36.968C40.816 33.118 40.816 26.88 36.966 23.032C33.12 19.183 26.88 19.183 23.034 23.032C19.183 26.881 19.183 33.118 23.034 36.968C26.881 40.813 33.12 40.813 36.968 36.968L36.966 36.968Z" fill="#ffff"/>
+    </g>
+    <g transform="matrix(0.866667, 0, 0, 0.866667, 1380.253784, 99.202927)">
+      <path fill="none" d="M0 0h60v60H0z"/>
+      <path fill="#ffff" fill-rule="nonzero" d="M17.35 12.5a5 5 0 1 1 -10 -0.005 5 5 0 0 1 10 0.005zM17.5 21.2H7.5V52.5h10V21.2zm15.8 0H23.35V52.5h9.85v-16.425c0 -9.15 11.925 -10 11.925 0V52.5H55v-19.825c0 -15.425 -17.65 -14.85 -21.8 -7.275l0.1 -4.2z"/>
+    </g>
+    <g id="Glyph_copy_2" transform="matrix(0.854701, 0, 0, 0.816876, 1383.249512, 245.948288)">
+      <path d="M54.248 8.574c-0.775 -1.135 -2.079 -1.885 -3.55 -1.885H4.302c-1.44 0 -2.714 0.724 -3.495 1.819l26.778 22.328L54.248 8.574z" style="fill: rgb(255, 255, 255);"/>
+      <path d="M0.005 12.313v31.701c0 2.363 1.934 4.297 4.297 4.297h46.396c2.363 0 4.297 -1.934 4.297 -4.297V12.427L27.585 35.312L0.005 12.313z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+    <g transform="matrix(0.096746, 0, 0, 0.096691, 1382.373413, 312.706146)">
+      <path d="M505,257c0,34.8-0.7,69.7,0.2,104.5c1.5,61.6-37.2,109.2-86.5,130.4c-19.8,8.5-40.6,13-62.1,13c-67.3,0.1-134.7,1-202-0.3   c-50.7-1-92.4-22.2-122.3-64c-15.7-22-23.2-47-23.2-74.1c0-71.7,0-143.3,0-215c0-58.5,28.5-99.4,79.1-126C110.2,14,134.1,9.1,159,9   c65.3,0,130.7-0.4,196,0.2c50.7,0.4,93,19.8,124.2,60.6c17.4,22.8,25.8,49,25.8,77.8C505,184,505,220.5,505,257z M46,257   c0,36.7,0,73.3,0,110c0,16.4,3.8,31.8,12.3,45.7c22.3,36.5,56,54.3,97.8,55c67.1,1,134.3,0.4,201.5,0.2c16.5,0,32.5-3.4,47.4-10.5   c40.6-19.4,63.3-50.3,63.1-96.7c-0.4-71-0.1-142-0.1-213c0-20.1-5.7-38.5-17.6-54.7c-23-31.1-54.8-46.4-92.8-46.8   c-67-0.8-134-0.3-201-0.2c-14.3,0-28.1,2.9-41.5,7.9c-36.8,13.7-71,48.4-69.4,99.5C46.9,188,46,222.5,46,257z" style="fill: rgb(255, 255, 255);"/>
+      <path d="M257.6,363c-64.5,0-116.5-51.4-116.6-115.4c-0.1-63,52.3-114.6,116.4-114.6c64.3-0.1,116.5,51.4,116.6,114.9   C374,311.3,321.9,362.9,257.6,363z M257.6,326c43.9,0,79.5-35.1,79.4-78.3c-0.1-42.8-35.7-77.8-79.4-77.8   c-43.9,0-79.7,34.9-79.7,78C178,291.1,213.7,326.1,257.6,326z" style="fill: rgb(255, 255, 255);"/>
+      <path d="M387.5,98c13.5,0,24.5,11.5,24.5,25.6c-0.1,14.1-11.2,25.5-24.7,25.4c-13.3-0.1-24.2-11.5-24.2-25.3   C363,109.6,374,98,387.5,98z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+  </g>
+</svg>
