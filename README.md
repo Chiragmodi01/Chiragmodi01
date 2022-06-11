@@ -1,6 +1,15 @@
-<a href="/" target="_blank" rel="nofollow">
+<a href="https://github.com/Chiragmodi01" target="_blank" rel="nofollow">
   <img src="https://github.com/Chiragmodi01/Chiragmodi01/raw/master/assets/header-banner-optimized.svg" alt="Chirag's GitHub Stats" />
 </a>
+
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ChiragM2020)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-modi-582655202/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://chirag1.hashnode.dev/)
+<a href="mailto:chiragmodi2001@gmail.com?subject=Hey Chirag, From Github" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+
 <h1 align='center'> Hey! :wave: I'm Chirag modi</h1>
 <p align='center'>
 
