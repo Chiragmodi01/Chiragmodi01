@@ -3,9 +3,6 @@
 </a>
 
 <div align='center'>
-<a href="https://twitter.com/ChiragM2020" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</a>
 <a href="https://www.linkedin.com/in/chirag-modi-582655202/" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Likedin Badge" />
 </a>
@@ -30,32 +27,37 @@
 
 
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=css3&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-MaterialUI-informational?style=flat&logo=MaterialUI-CSS&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap-CSS&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=react&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/NextJs-informational?style=flat&logo=css3&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=css3&logoColor=white&color=df2525)
+<br>
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=css3&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/MaterialUI-informational?style=flat&logo=MaterialUI-CSS&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap-CSS&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/SCSS-informational?style=flat&logo=Sass&logoColor=white&color=df2525)
 <details>
 <summary >🛠️ Tools I've Used</summary>
 <br>
 
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=netlify&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=GitLab&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/CI-CD-Jenkins-informational?style=flat&logo=GitHub&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Hosting-Heroku-informational?style=flat&logo=netlify&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Packages-NPM-informational?style=flat&logo=npm&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=Postman&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/VersionControl-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/VersionControl-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=GitLab&logoColor=white&color=df2525)
 <br>
 <p>Learning</p>
 
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=df2525)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Android-ReactNative-informational?style=flat&logo=Redux&logoColor=white&color=df2525)
+![](https://img.shields.io/badge/Backend-Node&Express-informational?style=flat&logo=Typescript&logoColor=white&color=df2525)
 
 <br>
 </details>
