@@ -15,11 +15,11 @@
 </div>
 
 
-<h1 align='center'> Hey! :wave: I'm Chirag modi</h1>
+<h1 align='center'> Hey! :wave: I'm Chirag</h1>
 <p align='center'>
 
 </p>
-<p align='center'>I'm a Front end developer aspiring to become a Fullstack web developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</p>
+<p align='center'>I'm a Full-stack engineer focused on developing robust cross-platform solutions, with extensive experience in web and mobile (iOS/Android) application architecture and cloud-native technologies.</p>
 
 <br>
 
