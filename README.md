@@ -3,7 +3,7 @@
 </a>
 
 <div align='center'>
-<a href="https://www.linkedin.com/in/chirag-modi-582655202/" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/chirag20/" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Likedin Badge" />
 </a>
 <a href="https://chirag1.hashnode.dev/" target="_blank" rel="nofollow">
